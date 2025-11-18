@@ -1,0 +1,29 @@
+table, th, td{
+    border: 1px solid white;
+    color: white;
+}
+
+body{
+    background-image: linear-gradient(to bottom, black, darkblue, green, purple, red, pink);
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+dl, dt, dd{
+    color: white;
+}
+
+button{
+    background-color: aqua;
+    border: 2px solid cadetblue;
+}
+
+button:hover{
+    background-color: brown;
+}
