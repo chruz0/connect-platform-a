@@ -8,7 +8,7 @@
 ## Project Description
 Our Connect Platform bridges the gap between students searching for internships/employment and companies searching for skilled employees. The project is student oriented, placing a greater emphasis on the interactions and interplays between students and recruiters. The website features student and company dashboards, both fitted with seamless interconnectivity between them.
 ## Pages Implemented
-1. Landing Page (MainPage.html)
+1. Landing Page (index.html)
 2. Student Dashboard (StudentDashboard.html)
 3. Company Dashboard (CompanyDashboard.html)
 4. Project Listings (ProjectListings.html)
