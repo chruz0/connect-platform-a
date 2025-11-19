@@ -1,6 +1,6 @@
 # Connect Platform - Project 2
-## Team Name/Number: [Your Team Name]
-## Team Members
+## Team Name: Raider2
+### Team Members
 - Danjai_Christopher - chruz0
 - Abigail Alphonsus - abigailalphonsus007
 - Feven Sinebo - fsinebo
@@ -17,10 +17,10 @@ Our Connect Platform bridges the gap between students searching for internships/
 6. Resources Page (Resources.html)
 ## Technologies Used
 - HTML5
-- CSS3 (Flexbox, Grid, Media Queries)
+- CSS3
 - Git & GitHub
 - GitHub Pages
-## Individual Contributions Sample
+## Individual Contributions
 ### Danjai Christopher
 - Implemented landing page HTML structure
 - Created responsive navigation bar
