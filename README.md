@@ -1,20 +1,20 @@
-# project2website
-
 # Connect Platform - Project 2
 ## Team Name/Number: [Your Team Name]
 ## Team Members
-- [Danjai_Christopher] - [GitHub Username]
-- [Name] - [GitHub Username]
-- [Name] - [GitHub Username]
-- [Name] - [GitHub Username]
+- Danjai_Christopher - chruz0
+- Abigail Alphonsus - abigailalphonsus007
+- Feven Sinebo - fsinebo
+- Louis Parkman - lparkman
 ## Project Description
-Brief description of the Connect platform and what this project
-implements. (Refer to BMC document)
+Our Connect Platform bridges the gap between students searching for internships/employment and companies searching for skilled employees. The project is student oriented, placing a greater emphasis on the interactions and interplays between students and recruiters. The website features student and company dashboards, both fitted with seamless interconnectivity between them.
 ## Pages Implemented
-1. Landing Page (index.html)
-2. Student Dashboard (student-dashboard.html)
-3. Company Dashboard (company-dashboard.html)
-4. Project Listings (projects.html)
+1. Landing Page (MainPage.html)
+2. Student Dashboard (StudentDashboard.html)
+3. Company Dashboard (CompanyDashboard.html)
+4. Project Listings (ProjectListings.html)
+## Bonus Pages
+5. About Page (AboutUs.html)
+6. Resources Page (Resources.html)
 ## Technologies Used
 - HTML5
 - CSS3 (Flexbox, Grid, Media Queries)
@@ -24,16 +24,15 @@ implements. (Refer to BMC document)
 ### Danjai Christopher
 - Implemented landing page HTML structure
 - Created responsive navigation bar
-- [List other specific contributions]
+- Designed About Us Page
+- Fixed display issues with Anima
 ### Abigail Alphonsus
 - Designed and implemented color scheme
-- Created footer component
-- [List other specific contributions]
+- Designed Main Page
+- Designed and implemented ProjectListings.html
 ### Feven Sinebo
-- Implemented hero section styling
-- Made site responsive for mobile devices
-- [List other specific contributions]
+- Designed and implemented CompanyDashboard.html
+- Designed Student profile page concept
 ### Louis Parkman
-- Implemented hero section styling
-- Made site responsive for mobile devices
-- [List other specific contributions]
+- Designed and implemented Student Dashboard.html
+- Designed and implemented Resources.html
